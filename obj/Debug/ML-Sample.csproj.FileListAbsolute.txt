@@ -1,0 +1,11 @@
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\MLModel.zip
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\ML-Sample.exe.config
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\ML-Sample.exe
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\ML-Sample.pdb
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\ML-SampleML.Model.dll
+C:\Users\meshmi\source\repos\ML-Sample\bin\Debug\ML-SampleML.Model.pdb
+C:\Users\meshmi\source\repos\ML-Sample\obj\Debug\ML-Sample.csprojAssemblyReference.cache
+C:\Users\meshmi\source\repos\ML-Sample\obj\Debug\ML-Sample.csproj.CoreCompileInputs.cache
+C:\Users\meshmi\source\repos\ML-Sample\obj\Debug\ML-Sample.csproj.CopyComplete
+C:\Users\meshmi\source\repos\ML-Sample\obj\Debug\ML-Sample.exe
+C:\Users\meshmi\source\repos\ML-Sample\obj\Debug\ML-Sample.pdb
